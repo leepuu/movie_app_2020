@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/leepuu/movie_app_2020/static/css/main.da860ffa.chunk.css",
-    "main.js": "/leepuu/movie_app_2020/static/js/main.e83fc164.chunk.js",
-    "main.js.map": "/leepuu/movie_app_2020/static/js/main.e83fc164.chunk.js.map",
-    "runtime-main.js": "/leepuu/movie_app_2020/static/js/runtime-main.e7f6a6e1.js",
-    "runtime-main.js.map": "/leepuu/movie_app_2020/static/js/runtime-main.e7f6a6e1.js.map",
-    "static/js/2.9838505d.chunk.js": "/leepuu/movie_app_2020/static/js/2.9838505d.chunk.js",
-    "static/js/2.9838505d.chunk.js.map": "/leepuu/movie_app_2020/static/js/2.9838505d.chunk.js.map",
-    "index.html": "/leepuu/movie_app_2020/index.html",
-    "precache-manifest.729124a55cf6bc62f70eb242b1f65809.js": "/leepuu/movie_app_2020/precache-manifest.729124a55cf6bc62f70eb242b1f65809.js",
-    "service-worker.js": "/leepuu/movie_app_2020/service-worker.js",
-    "static/css/main.da860ffa.chunk.css.map": "/leepuu/movie_app_2020/static/css/main.da860ffa.chunk.css.map",
-    "static/js/2.9838505d.chunk.js.LICENSE.txt": "/leepuu/movie_app_2020/static/js/2.9838505d.chunk.js.LICENSE.txt",
-    "static/media/Header.css": "/leepuu/movie_app_2020/static/media/header-bg.1fd572d4.jpg",
-    "static/media/search.svg": "/leepuu/movie_app_2020/static/media/search.3c0b25ab.svg"
+    "main.css": "./static/css/main.607d5bc3.chunk.css",
+    "main.js": "./static/js/main.e83fc164.chunk.js",
+    "main.js.map": "./static/js/main.e83fc164.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.7ccf5ded.js",
+    "runtime-main.js.map": "./static/js/runtime-main.7ccf5ded.js.map",
+    "static/js/2.9838505d.chunk.js": "./static/js/2.9838505d.chunk.js",
+    "static/js/2.9838505d.chunk.js.map": "./static/js/2.9838505d.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.366a2b93b22a4d60e94aa8f04bc0a5c8.js": "./precache-manifest.366a2b93b22a4d60e94aa8f04bc0a5c8.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.607d5bc3.chunk.css.map": "./static/css/main.607d5bc3.chunk.css.map",
+    "static/js/2.9838505d.chunk.js.LICENSE.txt": "./static/js/2.9838505d.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "./static/media/header-bg.1fd572d4.jpg",
+    "static/media/search.svg": "./static/media/search.3c0b25ab.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e7f6a6e1.js",
+    "static/js/runtime-main.7ccf5ded.js",
     "static/js/2.9838505d.chunk.js",
-    "static/css/main.da860ffa.chunk.css",
+    "static/css/main.607d5bc3.chunk.css",
     "static/js/main.e83fc164.chunk.js"
   ]
 }
