@@ -116,7 +116,7 @@ const App = () => {
 			) : errorMessage ? (
 				<div className="errorMessage">{errorMessage}</div>
 			) : searchMovies === undefined ? (
-				<div className="errorMessage">검색결과없습니다</div>
+				<div className="errorMessage">Oh my God No Result</div>
 			) : searchMovies.length > 0 ? (
 				<>
 					<div className="movies_wrap">
